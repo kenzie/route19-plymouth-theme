@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Route 19
+Description=Route 19 splash screen.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/route19
+ScriptFile=/usr/share/plymouth/themes/route19/route19.script
+ConsoleLogBackgroundColor=0x1a1b26
